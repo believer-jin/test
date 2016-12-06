@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<metadata category="page">
+<item name="title">邮件跟踪</item>
+</metadata>
+<metadata category="grid">
+<rows name="grid1">
+<head>
+<column id="c_id" hideFlag="true" type="ro" sort="str" width="80">跟进ID</column>
+<column id="c_tasknum" hideFlag="false" type="ro" sort="str" width="80">群发邮件</column>
+<column id="c_timeopen" hideFlag="false" type="ro" sort="str" width="180">打开时间</column>
+<column id="c_timeclose" hideFlag="true" type="ro" sort="str" width="180">关闭时间</column>
+<column id="c_ip" hideFlag="false" type="ro" sort="str" width="200">打开地址</column>
+</head>
+<row id="193013">
+<cell>20</cell>
+<cell>否</cell>
+<cell>2013-09-27 11:27:37.89</cell>
+<cell>1970-01-01 08:00:00.0</cell>
+<cell>192.168.1.118(局域网)</cell>
+</row>
+</rows>
+</metadata>
+</root>
