@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/antlr.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/chardet-1.0.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/common.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/commons-codec.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/commons-lang.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/cpdetector_1.0.10.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/groupMail.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/itext-1.4.3.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/jakarta-oro.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/java-gmail-imap-1.4.4-gm-ext-0.5.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/javax.mail.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/jmimemagic-0.1.0.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/json.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/poi-3.9-20121203.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/tnef.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/utilscollection.1.0.jar!/" />
+      <root url="jar://F:/WORKSPACE_JIN/test/lib/wsdl4j-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
